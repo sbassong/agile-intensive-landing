@@ -102,6 +102,11 @@ FOOTER
     margin: 0 auto;
 }
 
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
 
 /*------------------------------------*\
     $SPACING
@@ -494,11 +499,8 @@ h1, h2, h3, h4, h5 {
 }
 
 h2 {
-    font-size: 2 em;
-    font-weight: 400;
+    font-size: 1.8em;
     padding-bottom: 20px;
-    font-weight: 700;
-    line-height: 1.2;
 }
 
 h3 {
@@ -869,7 +871,7 @@ footer img {
 .img-resp {
     width: 100%;
     height: auto;
-    display: block;
+    /* display: block; */
 }
 
 .footer-padding {
