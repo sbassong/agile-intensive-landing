@@ -48,3 +48,8 @@ I'll never try to be smarter with my CSS coding styles than Harry -> https://css
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
 }
+
+.txt-right-on-desktop {
+    text-align: right;
+}
+
